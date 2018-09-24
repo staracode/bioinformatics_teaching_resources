@@ -1,0 +1,8 @@
+#PCA 
+https://www.youtube.com/watch?v=0Jp4gsfOLMs
+
+#tSNE
+https://www.youtube.com/watch?v=NEaUSP4YerM
+
+#multiple testing correction
+https://www.youtube.com/watch?v=K8LQSvtjcEo

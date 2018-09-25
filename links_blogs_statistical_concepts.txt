@@ -1,3 +1,11 @@
 # pvalue histogram troubleshooting
 http://varianceexplained.org/statistics/interpreting-pvalue-histogram/
 
+# RPKM, CPM explanation
+http://luisvalesilva.com/datasimple/rna-seq_units.html
+
+#tsne demo 
+https://distill.pub/2016/misread-tsne/
+
+#tsne comparison to UMAP method for single cell data ( Tabula Muris dataset )
+http://carbonandsilicon.net/rblogging/2018/02/27/UMAP_plots.html

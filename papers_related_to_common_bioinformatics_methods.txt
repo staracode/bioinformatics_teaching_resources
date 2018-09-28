@@ -1,0 +1,3 @@
+#comparison of edgeR and DEseq2 differential expression packages
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4878611/
+

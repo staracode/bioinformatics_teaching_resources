@@ -9,3 +9,9 @@ https://distill.pub/2016/misread-tsne/
 
 #tsne comparison to UMAP method for single cell data ( Tabula Muris dataset )
 http://carbonandsilicon.net/rblogging/2018/02/27/UMAP_plots.html
+
+#general data mining issues
+https://rafalab.github.io/dsbook/
+
+#dimensionality reduction
+https://arxiv.org/pdf/1410.0342.pdf

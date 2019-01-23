@@ -1,3 +1,5 @@
 #comparison of edgeR and DEseq2 differential expression packages
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4878611/
 
+# dealing with batch effects 
+https://www.cell.com/trends/biotechnology/pdf/S0167-7799(17)30036-7.pdf

@@ -15,3 +15,6 @@ https://rafalab.github.io/dsbook/
 
 #dimensionality reduction
 https://arxiv.org/pdf/1410.0342.pdf
+
+#fisher exact test
+http://www.pathwaycommons.org/guide/primers/statistics/fishers_exact_test/

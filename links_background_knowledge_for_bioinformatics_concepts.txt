@@ -1,3 +1,5 @@
 #linear algebra primer
 https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
 
+#adjusting batch effects with combat example
+http://genomicsclass.github.io/book/pages/adjusting_with_linear_models.html

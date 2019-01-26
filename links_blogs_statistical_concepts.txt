@@ -18,3 +18,6 @@ https://arxiv.org/pdf/1410.0342.pdf
 
 #fisher exact test
 http://www.pathwaycommons.org/guide/primers/statistics/fishers_exact_test/
+
+#visualization of bias variance trade-off decision trees
+http://www.r2d3.us/visual-intro-to-machine-learning-part-2/

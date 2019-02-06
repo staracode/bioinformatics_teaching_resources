@@ -3,3 +3,9 @@ https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE
 
 #adjusting batch effects with combat example
 http://genomicsclass.github.io/book/pages/adjusting_with_linear_models.html
+
+# simplification of map
+https://www.math.upenn.edu/~jhansen/2018/05/04/UMAP/
+
+# tsne 
+https://distill.pub/2016/misread-tsne/

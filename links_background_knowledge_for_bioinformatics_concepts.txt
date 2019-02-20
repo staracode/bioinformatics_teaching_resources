@@ -9,3 +9,6 @@ https://www.math.upenn.edu/~jhansen/2018/05/04/UMAP/
 
 # tsne 
 https://distill.pub/2016/misread-tsne/
+
+# single cell modeling concepts
+http://www.nxn.se/archive

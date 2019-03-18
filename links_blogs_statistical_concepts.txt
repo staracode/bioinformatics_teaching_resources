@@ -21,3 +21,6 @@ http://www.pathwaycommons.org/guide/primers/statistics/fishers_exact_test/
 
 #visualization of bias variance trade-off decision trees
 http://www.r2d3.us/visual-intro-to-machine-learning-part-2/
+
+#book with R code and stats lessons sprinkled in.  Good for learning how to explore data with plots. 
+https://leanpub.com/datasciencebook

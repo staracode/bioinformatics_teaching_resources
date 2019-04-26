@@ -24,3 +24,6 @@ http://www.r2d3.us/visual-intro-to-machine-learning-part-2/
 
 #book with R code and stats lessons sprinkled in.  Good for learning how to explore data with plots. 
 https://leanpub.com/datasciencebook
+
+# a way of thinking of statistically tests as related to linear regression to better learn it intuitively
+https://lindeloev.github.io/tests-as-linear/

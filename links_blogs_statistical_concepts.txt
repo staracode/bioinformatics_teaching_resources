@@ -27,3 +27,5 @@ https://leanpub.com/datasciencebook
 
 # a way of thinking of statistically tests as related to linear regression to better learn it intuitively
 https://lindeloev.github.io/tests-as-linear/
+
+#differe

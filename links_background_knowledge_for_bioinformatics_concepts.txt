@@ -12,3 +12,6 @@ https://distill.pub/2016/misread-tsne/
 
 # single cell modeling concepts
 http://www.nxn.se/archive
+
+#Dimensionality Reduction for scATAC Data
+http://andrewjohnhill.com/blog/2019/05/06/dimensionality-reduction-for-scatac-data/

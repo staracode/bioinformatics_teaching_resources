@@ -30,3 +30,9 @@ https://lindeloev.github.io/tests-as-linear/
 
 #variational auto encoder explanation I can understand
 https://towardsdatascience.com/intuitively-understanding-variational-autoencoders-1bfe67eb5daf
+
+#deep learning book 
+https://www.deeplearningbook.org/
+
+#ML with tabular data issues (one feature can significantly alter performance issue)
+https://arxiv.org/pdf/1805.06440.pdf

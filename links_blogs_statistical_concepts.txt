@@ -28,4 +28,5 @@ https://leanpub.com/datasciencebook
 # a way of thinking of statistically tests as related to linear regression to better learn it intuitively
 https://lindeloev.github.io/tests-as-linear/
 
-#differe
+#variational auto encoder explanation I can understand
+https://towardsdatascience.com/intuitively-understanding-variational-autoencoders-1bfe67eb5daf

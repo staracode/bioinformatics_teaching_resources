@@ -30,6 +30,7 @@ https://lindeloev.github.io/tests-as-linear/
 
 #variational auto encoder explanation I can understand
 https://towardsdatascience.com/intuitively-understanding-variational-autoencoders-1bfe67eb5daf
+http://pyro.ai/examples/vae.html
 
 #deep learning book 
 https://www.deeplearningbook.org/

@@ -1,0 +1,20 @@
+ggplot(pop_vars, aes(x=Population, y=PercNoneOrOneHets, fill=SuperPop)) + 
+  geom_bar(stat="identity") +
+  ggtitle('% People with None or One Het SNPs in the PHOX2B locus per 1000 Genomes Population') + 
+  ylab('% Population') + 
+  xlab('Population') + 
+  theme(axis.text.x = element_text(angle=45, hjust=1, 
+                                   colour='white')) +
+  scale_fill_brewer(palette="Dark2") + 
+  theme(plot.background = element_rect(fill = 'black', colour='black', linetype = 'solid')) + 
+  theme(panel.background = element_rect(fill='black')) +
+  theme(panel.border = element_rect(colour='black', fill=NA),
+        panel.grid.major = element_blank(),
+        axis.line = element_line(colour = "black"),
+        panel.grid.minor = element_blank(),
+        legend.background = element_rect(colour = 'black', fill='black'),
+        legend.key = element_rect(fill = "black", colour = "black"),
+        legend.text = element_text(colour="white", size=10),
+        axis.text.x=element_text(colour="white"),
+        axis.text.y=element_text(colour="white"),
+        title = element_text(colour='white’))
